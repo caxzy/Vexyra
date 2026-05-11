@@ -51,6 +51,7 @@ jobs:
             echo "Unable to determine package manager"
             exit 1
           fi
+          working-directory: ./megathread
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
