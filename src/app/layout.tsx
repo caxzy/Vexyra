@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "...",
+  title: "LyzernHub - Your Megathread for optimization.",
   description: "Soon...",
 };
 
