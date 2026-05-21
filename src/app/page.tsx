@@ -18,7 +18,7 @@ export default function MaintenancePage() {
           </h1>
           
           <p className="text-sm md:text-base mb-14 leading-relaxed max-w-md text-slate-500 font-sans">
-            LyzernHub is currently under maintenance; we're learning the basics! 
+            Vexyra is currently under maintenance; we're learning the basics! 
             We will be back online shortly.
           </p>
 

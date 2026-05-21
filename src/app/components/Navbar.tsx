@@ -18,7 +18,7 @@ export default function Navbar() {
         
         <Link href="/" className="flex items-center gap-2">
           <span className="text-xl font-black tracking-widest text-white uppercase font-sans">
-            Lyzern<span className="text-[#D053FF]">.</span>
+            Vexyra<span className="text-[#D053FF]">.</span>
           </span>
         </Link>
 
