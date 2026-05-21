@@ -3,8 +3,8 @@ import './globals.css';
 import Navbar from './components/Navbar';
 
 export const metadata: Metadata = {
-  title: 'VexyraHub - Your Megthread for optimization.',
-  description: 'dev_build-TestDescription.',
+  title: 'VexyraHub - Your Hub for optimization.',
+  description: 'VexyraHub - No limits to your goals—optimize your Windows using proven and verified optimization tools for higher FPS.',
 };
 
 export default function RootLayout({
