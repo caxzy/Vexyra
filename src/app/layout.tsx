@@ -3,7 +3,7 @@ import './globals.css';
 import Navbar from './components/Navbar';
 
 export const metadata: Metadata = {
-  title: 'Vexyra - Your Megthread for optimization.',
+  title: 'VexyraHub - Your Megthread for optimization.',
   description: 'dev_build-TestDescription.',
 };
 
